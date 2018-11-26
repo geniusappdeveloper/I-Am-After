@@ -1,0 +1,6 @@
+framework module Pods_IMAfterUITests {
+  umbrella header "Pods-IMAfterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
